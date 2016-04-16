@@ -1,0 +1,24 @@
+{
+  "name": "victorwong",
+  "version": "0.0.1",
+  "description": "start",
+  "main": "package.json",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wly731/addition-victor.git"
+  },
+  "keywords": [
+    "addition",
+    "victor",
+    "wong"
+  ],
+  "author": "Victor Wong <wly731@gmail.com> (@wly731)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wly731/addition-victor/issues"
+  },
+  "homepage": "https://github.com/wly731/addition-victor#readme"
+}
